@@ -9,7 +9,7 @@ import database from './assets/database.json';
   <div class="p-3 d-flex flex-column align-items-center">
     <div class="centralizer-wrapper">
       <header>
-        <h1 class="text-center mb-3 display-1">Detetive</h1>
+        <h1 class="text-center mb-3 display-1">Detetive: Horror Edition</h1>
         <h2 class="text-center mb-3 display-5">Ficha Eletrônica</h2>
       </header>
       <div class="mobile-screens">
@@ -34,7 +34,7 @@ import database from './assets/database.json';
           de cookies para uma boa experiência.
         </p>
         <p>
-          Desenvolvido por Giovanni Vasconcelos de Medeiros. Acesse meu site
+          Desenvolvido por Giovanni Vasconcelos. Acesse meu site
           <a href="https://vasconcelos-giovanni.github.io/giovanni-vasconcelos">clicando aqui</a>.
         </p>
       </footer>

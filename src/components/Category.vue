@@ -97,7 +97,7 @@ const finalGuessMade = (id) => {
 
     <label class="form-check-label" :for="idsPrefixes.select"> Palpite final </label>
     <select
-      class="form-select mb-3 fw-bold btn btn-success"
+      class="form-select mb-3 fw-bold btn btn-primary"
       v-model="selectedOption"
       :id="'select_' + props.categoria"
     >

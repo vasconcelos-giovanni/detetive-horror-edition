@@ -37,7 +37,7 @@ function resetGame() {
         <div class="modal-footer">
           <button type="button" class="btn btn-outline-danger" @click="resetGame()">Sim</button>
 
-          <button type="button" class="btn btn-outline-success" data-bs-dismiss="modal">Não</button>
+          <button type="button" class="btn btn-outline-primary" data-bs-dismiss="modal">Não</button>
         </div>
       </div>
     </div>
